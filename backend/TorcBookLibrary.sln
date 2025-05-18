@@ -1,0 +1,48 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36109.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TorcBookLibrary.Api", "TorcBookLibrary.Api\TorcBookLibrary.Api.csproj", "{964C00DA-6DE7-44A0-9DE7-7D4C1DDE3EE6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TorcBookLibrary.Services", "TorcBookLibrary.Services\TorcBookLibrary.Services.csproj", "{9AD98877-83EB-448A-B729-539C25ED9B8C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TorcBookLibrary.Infra", "TorcBookLibrary.Infra\TorcBookLibrary.Infra.csproj", "{3A010CD5-8F0E-47D1-9F25-5B077D0EEA02}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TorcBookLibrary.Domain", "TorcBookLibrary.Domain\TorcBookLibrary.Domain.csproj", "{EB836F6A-C051-462C-9025-637E44FFF0AE}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}"
+	ProjectSection(SolutionItems) = preProject
+		README.md = README.md
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{964C00DA-6DE7-44A0-9DE7-7D4C1DDE3EE6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{964C00DA-6DE7-44A0-9DE7-7D4C1DDE3EE6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{964C00DA-6DE7-44A0-9DE7-7D4C1DDE3EE6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{964C00DA-6DE7-44A0-9DE7-7D4C1DDE3EE6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9AD98877-83EB-448A-B729-539C25ED9B8C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9AD98877-83EB-448A-B729-539C25ED9B8C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9AD98877-83EB-448A-B729-539C25ED9B8C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9AD98877-83EB-448A-B729-539C25ED9B8C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3A010CD5-8F0E-47D1-9F25-5B077D0EEA02}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3A010CD5-8F0E-47D1-9F25-5B077D0EEA02}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3A010CD5-8F0E-47D1-9F25-5B077D0EEA02}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3A010CD5-8F0E-47D1-9F25-5B077D0EEA02}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EB836F6A-C051-462C-9025-637E44FFF0AE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EB836F6A-C051-462C-9025-637E44FFF0AE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EB836F6A-C051-462C-9025-637E44FFF0AE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EB836F6A-C051-462C-9025-637E44FFF0AE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E7C47D81-C4F3-4846-A295-A0CA44AEF1D5}
+	EndGlobalSection
+EndGlobal

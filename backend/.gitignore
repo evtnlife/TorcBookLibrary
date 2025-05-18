@@ -1,0 +1,33 @@
+# Ignore bin and obj folders recursively
+**/[Bb]in/
+**/[Oo]bj/
+
+# Ignore build outputs
+*.dll
+*.exe
+*.pdb
+*.cache
+*.log
+*.tmp
+
+# Ignore user-specific and IDE files
+*.user
+*.suo
+*.userprefs
+.vs/
+.idea/
+.vscode/
+
+# Ignore backup files
+*.Backup.*
+*.bak
+*.old
+
+# Ignore NuGet & build artifacts
+packages/
+*.nupkg
+project.lock.json
+project.assets.json
+
+# Ignore publish output
+publish/
