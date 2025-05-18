@@ -100,7 +100,3 @@ dotnet add TorcBookLibrary.Infra package Microsoft.EntityFrameworkCore.Design
 ## 📄 License
 
 This project was developed for technical demonstration purposes. All rights reserved by the author.
-
-```
-
-```
